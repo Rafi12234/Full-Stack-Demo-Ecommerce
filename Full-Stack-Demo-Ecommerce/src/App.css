@@ -1,0 +1,9 @@
+*{
+  font-family: 'poppins',sans-serif;
+}
+.bg-brand{
+  background-color: #f3f5f9;
+}
+.bg-brand-container{
+  min-height: 100vh;
+}
