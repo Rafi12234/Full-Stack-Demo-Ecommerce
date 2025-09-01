@@ -1,0 +1,86 @@
+[
+    {
+        "id":"1",
+        "name":"Airpods",
+        "description":"Experience unparalleled audio quality and seamless convenience with the iconic AirPods. These wireless earbuds are designed to deliver rich sound and cutting-edge technology, ensuring you enjoy every beat with crystal-clear clarity. Their sleek, minimalist design makes them not only a stylish accessory but also incredibly lightweight and comfortable to wear for long periods. With intelligent features like automatic on/off, effortless pairing with your devices, and an impressive battery life, the AirPods redefine what wireless listening should be. - 🎶 *Superior Sound Quality*: Enjoy immersive sound that elevates your music experience. - 🔋 *Long Battery Life*: Keep the music playing all day long with extended listening time. - 🌐 *Seamless Connectivity*: Effortlessly connect to all your Apple devices for a hassle-free experience. - 🎤 *Built-In Microphone*: Make clear calls or activate Siri without missing a beat. - 📦 *Portable Charging Case*: Carry your AirPods and charge them on-the-go for added convenience.",
+        "price":"16000",
+        "image":"https://i.ibb.co.com/C5M22dT6/airpod.jpg"
+    },
+    {
+        "id":"2",
+        "name":"Bag",
+        "description":"Introducing our stylish and versatile Bag – the perfect accessory for any occasion! Crafted with premium materials, this bag seamlessly combines functionality with a chic aesthetic. Whether you're heading to work, running errands, or enjoying a night out with friends, this bag is designed to keep you organized while making a bold fashion statement. Its spacious interior accommodates all your essentials, while the sleek design ensures you look fabulous no matter the setting. - 👜 **Spacious Interior:** Room for all your daily essentials and more! - 🌟 **Chic Design:** Elevates any outfit with its trendy style. - 🔒 **Secure Closure:** Keep your belongings safe with a reliable zipper or clasp. - 🌈 **Variety of Colors:** Available in multiple colors to match your personal style. - 🌍 **Eco-Friendly Materials:** Made with sustainable materials for a greener planet. Upgrade your accessory game with our exceptional Bag today!",
+        "price":"2000",
+        "image":"https://i.ibb.co.com/vvrDG7fC/bag.jpg"
+    },
+    {
+        "id":"3",
+        "name":"Body Spray",
+        "description":"Introducing our luxurious Body Spray, designed to elevate your senses and envelop you in a refreshing aura. This captivating fragrance blends exotic notes with invigorating ingredients, providing a lasting impression that invigorates your spirit throughout the day. Perfect for any occasion, our Body Spray effortlessly enhances your personal scent while keeping you feeling rejuvenated and confident.",
+        "price":"2000",
+        "image":"https://i.ibb.co.com/1tndSPcw/body-spray.jpg"
+    },
+    {
+        "id":"4",
+        "name":"Camera",
+        "description":"Capture life’s fleeting moments with our state-of-the-art Camera, designed for both amateur photographers and seasoned professionals. This versatile device boasts advanced features that enhance every shot, ensuring you immortalize vivid colors, exquisite details, and dynamic scenes with ease. With intuitive settings and a user-friendly interface, you'll effortlessly transition from capturing breathtaking landscapes to stunning portraits. Elevate your photography game and explore your creativity like never before with this impeccable Camera!",
+        "price":"45000",
+        "image":"https://i.ibb.co.com/p9wZj0f/camera.jpg"
+    },
+    {
+        "id":"5",
+        "name":"IPhone",
+        "description":"Introducing the iPhone, a seamless blend of cutting-edge technology and timeless design. Engineered for perfection, this smartphone revolutionizes the way you connect, work, and play. With its stunning Retina display, advanced camera system, and robust A-series chip, the iPhone delivers an unparalleled user experience. Whether you’re capturing life’s moments with crystal-clear photos or enjoying immersive video streaming, this device elevates your digital lifestyle to new heights. ",
+        "price":"66000",
+        "image":"https://i.ibb.co.com/Xrk1qcpy/iphone.jpg"
+    },
+    {
+       "id":"6",
+        "name":"Laptop",
+        "description":"Introducing our latest Laptop, designed to redefine your digital experience! This sleek and powerful companion combines innovation and performance, making it perfect for work, play, and everything in between. Featuring a stunning display, lightning-fast processing, and a lightweight design, our laptop ensures you stay productive and entertained no matter where you go. Say goodbye to sluggish performance and hello to seamless multitasking with cutting-edge technology that meets all your needs.",
+        "price":"110000",
+        "image":"https://i.ibb.co.com/pjksYHwZ/laptop.jpg"
+    },
+    {
+        "id":"7",
+        "name":"Mouse",
+        "description":"Introducing our sleek and ergonomic wireless mouse, designed to enhance your productivity and provide ultimate comfort during those long hours of work or gaming. With its advanced optical sensor and responsive buttons, you can enjoy seamless navigation and precise control at your fingertips. The modern design not only looks great on any desk but also fits comfortably in your hand, reducing strain and fatigue. Experience the freedom of wireless connectivity, and elevate your computing experience today! ",
+        "price":"1500",
+        "image":"https://i.ibb.co.com/7NxwtKr4/mouse.jpg"
+    },
+    {
+        "id":"8",
+        "name":"Mugs",
+        "description":"Elevate your coffee or tea experience with our exquisite collection of mugs, designed to perfectly complement your favorite beverages. Made from high-quality ceramics, these mugs boast an elegant finish and a comfortable grip that enhances every sip. Whether you're at home, in the office, or on the go, our mugs are the perfect companion for any moment, adding a splash of personality to your routine. Choose from a variety of stunning designs and colors to express your style while cherishing those cozy moments with your favorite drinks. - ☕ Premium ceramic construction for durability and heat retention - 🎨 Unique and stylish designs to match your personality - 💧 Dishwasher and microwave safe for convenient use - 🌍 Eco-friendly materials that care for the planet - 🎁 Perfect gift for coffee lovers, birthdays, or special occasions",
+        "price":"350",
+        "image":"https://i.ibb.co.com/Sw4nqYSQ/mugs.jpg"
+    },
+    {
+        "id":"9",
+        "name":"Shoes",
+        "description":"Step into style and comfort with our premium Shoes collection! Crafted to suit every occasion, these versatile footwear choices provide an ideal blend of fashion and functionality. Whether you're hitting the pavement or stepping out for a night on the town, our shoes offer exceptional support, durability, and a trend-setting design that won’t go unnoticed. Elevate your wardrobe and experience the difference with a pair of shoes made to empower your every step.",
+        "price":"3000",
+        "image":"https://i.ibb.co.com/0VpcZr61/shoe.jpg"
+    },
+    {
+        "id":"10",
+        "name":"Sun Glasses",
+        "description":"Elevate your style and protect your eyes with our premium Sun Glasses, designed for those who refuse to compromise on quality and fashion. Crafted with precision, these sunglasses offer not only a chic aesthetic but also superior UV protection, ensuring your eyes stay safe while you bask in the sun. The lightweight and durable frame guarantees all-day comfort, making them perfect for beach days, outdoor adventures, or simply running errands. With various colors and styles available, you can find the perfect pair to match your unique personality.",
+        "price":"1500",
+        "image":"https://i.ibb.co.com/Q7MZQqpx/sunglass.jpg"
+    },
+    {
+        "id":"11",
+        "name":"Television",
+        "description":"Introducing our stunning Ultra HD Smart Television, the ultimate centerpiece for your home entertainment system. Experience movies, sports, and your favorite shows like never before with crystal-clear resolution and vibrant colors that bring your viewing experience to life. Designed with cutting-edge technology, our TV seamlessly connects to your favorite streaming services, allowing you to access limitless content with just a few clicks. Whether you’re hosting a movie night or enjoying a cozy binge-watching session, this television redefines quality time with family and friends. ",
+        "price":"88000",
+        "image":"https://i.ibb.co.com/sdGbsDBj/tv.jpg"
+    },
+    {
+        "id":"12",
+        "name":"Smart Watch",
+        "description":"Introducing the ultimate Smart Watch, designed for those who value both functionality and style. Seamlessly merging advanced technology with a sleek aesthetic, this Smart Watch empowers you to stay connected, monitor your health, and enhance your fitness journey all from your wrist. With customizable watch faces and a variety of straps, you can tailor it to fit your unique lifestyle and personal flair. Whether you’re tracking your workouts, receiving notifications, or navigating your day, this Smart Watch is the perfect companion for anyone looking to elevate their everyday experience.",
+        "price":"30000",
+        "image":"https://i.ibb.co.com/Z67nBzdY/watch.jpg"
+    }
+]
