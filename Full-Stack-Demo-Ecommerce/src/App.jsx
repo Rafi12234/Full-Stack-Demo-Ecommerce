@@ -8,13 +8,14 @@ import Login from './components/Login/Login'
 import Profile from './components/Profile/Profile'
 import Dashboard from './components/Dashboard/Dashboard'
 import NotFound from './components/NotFound/NotFound'
-
+import Product from './components/Product/Product'
 function App() {
 
   return (
     <Routes>
       <Route path='/' element={<Home/>} />
       <Route path='/products' element={<Products/>} />
+      <Route path='/product/:id' element={<Product/>} />
       <Route path='/cart' element={<Cart/>} />
       <Route path='/login' element={<Login/>} />
       <Route path='/profile' element={<Profile/>} />
