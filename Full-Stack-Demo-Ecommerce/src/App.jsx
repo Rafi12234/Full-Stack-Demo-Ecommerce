@@ -9,6 +9,7 @@ import Profile from './components/Profile/Profile'
 import Dashboard from './components/Dashboard/Dashboard'
 import NotFound from './components/NotFound/NotFound'
 import Product from './components/Product/Product'
+import Footer from './components/Shared/Footer/Footer'
 function App() {
 
   return (
@@ -21,7 +22,7 @@ function App() {
       <Route path='/profile' element={<Profile/>} />
       <Route path='/dashboard' element={<Dashboard/>} />
       <Route path='*' element={<NotFound/>} />
-
+      
     </Routes>
   )
 }

@@ -3,6 +3,7 @@ import Navbar from '../Shared/Navbar/Navbar'
 import Hero from '../Hero/Hero'
 import './Home.css'
 import TopProducts from '../TopProducts/TopProducts'
+import Footer from '../Shared/Footer/Footer'
 
 function Home() {
   return (
@@ -15,7 +16,7 @@ function Home() {
         <div className='container my-4'>
             <TopProducts />
         </div>
-
+        <Footer />
     </div>
   )
 }
